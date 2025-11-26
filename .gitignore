@@ -38,5 +38,4 @@ venv.bak/
 .vscode/
 .idea/
 
-# Project specific
-sample_po.pdf
+
